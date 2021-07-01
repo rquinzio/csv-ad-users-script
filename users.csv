@@ -1,0 +1,6 @@
+"firstname","lastname","username","password","chpasswdlogon","enabled","ou","group1","group2","userPath"
+"Burton","Guster","bguster","P@$$w0rd","True","False","OU=TEAM1,DC=rquinzio,DC=lan","CN=G_S_TEAM1,OU=GROUPES,DC=rquinzio,DC=lan","","CN=Burton Guster,OU=TEAM1,DC=rquinzio,DC=lan"
+"Shawn","Spencer","sspencer","P@$$w0rd","True","False","OU=TEAM1,DC=rquinzio,DC=lan","CN=G_S_TEAM1,OU=GROUPES,DC=rquinzio,DC=lan","","CN=Shawn Spencer,OU=TEAM1,DC=rquinzio,DC=lan"
+"Remi","Quinzio","rquinzio","P@$$w0rd","False","True","OU=TEAM1,DC=rquinzio,DC=lan","CN=G_S_TEAM1,OU=GROUPES,DC=rquinzio,DC=lan","CN=G_S_MANAGERSTEAM1,OU=GROUPES,DC=rquinzio,DC=lan","CN=Remi Quinzio,OU=TEAM1,DC=rquinzio,DC=lan"
+"Marty","McFly","mmcfly","P@$$w0rd","True","False","OU=TEAM2,DC=rquinzio,DC=lan","CN=G_S_TEAM2,OU=GROUPES,DC=rquinzio,DC=lan","","CN=Marty McFly,OU=TEAM2,DC=rquinzio,DC=lan"
+"Emmett","Brown","elbrown","P@$$w0rd","True","False","OU=TEAM2,DC=rquinzio,DC=lan","CN=G_S_TEAM2,OU=GROUPES,DC=rquinzio,DC=lan","CN=G_S_MANAGERSTEAM1,OU=GROUPES,DC=rquinzio,DC=lan","CN=Emmett Brown,OU=TEAM2,DC=rquinzio,DC=lan"
